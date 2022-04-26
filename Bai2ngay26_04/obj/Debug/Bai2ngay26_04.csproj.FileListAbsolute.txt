@@ -1,0 +1,7 @@
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\C_Sharp\Bai2ngay26_04\bin\Debug\Bai2ngay26_04.exe.config
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\C_Sharp\Bai2ngay26_04\bin\Debug\Bai2ngay26_04.exe
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\C_Sharp\Bai2ngay26_04\bin\Debug\Bai2ngay26_04.pdb
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\C_Sharp\Bai2ngay26_04\obj\Debug\Bai2ngay26_04.csprojAssemblyReference.cache
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\C_Sharp\Bai2ngay26_04\obj\Debug\Bai2ngay26_04.csproj.CoreCompileInputs.cache
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\C_Sharp\Bai2ngay26_04\obj\Debug\Bai2ngay26_04.exe
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\C_Sharp\Bai2ngay26_04\obj\Debug\Bai2ngay26_04.pdb
