@@ -1,0 +1,6 @@
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap36\BaiTap36\bin\Debug\BaiTap36.exe.config
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap36\BaiTap36\bin\Debug\BaiTap36.exe
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap36\BaiTap36\bin\Debug\BaiTap36.pdb
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap36\BaiTap36\obj\Debug\BaiTap36.csprojResolveAssemblyReference.cache
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap36\BaiTap36\obj\Debug\BaiTap36.exe
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap36\BaiTap36\obj\Debug\BaiTap36.pdb

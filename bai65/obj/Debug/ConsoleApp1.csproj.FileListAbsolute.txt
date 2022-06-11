@@ -1,0 +1,7 @@
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\BTTL\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\BTTL\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\BTTL\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\BTTL\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\BTTL\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\BTTL\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\BTTL\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

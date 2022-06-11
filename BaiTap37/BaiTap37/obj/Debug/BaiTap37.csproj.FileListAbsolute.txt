@@ -1,0 +1,5 @@
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap37\BaiTap37\bin\Debug\BaiTap37.exe.config
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap37\BaiTap37\bin\Debug\BaiTap37.exe
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap37\BaiTap37\bin\Debug\BaiTap37.pdb
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap37\BaiTap37\obj\Debug\BaiTap37.exe
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 4\BaiTap37\BaiTap37\obj\Debug\BaiTap37.pdb

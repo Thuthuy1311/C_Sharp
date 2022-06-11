@@ -19,10 +19,10 @@ namespace Baitapngay10_5
 
             Console.WriteLine("gia tri lon nhat la : " + getMax_266(giatri_266));
             Console.WriteLine("gia tri nho nhat la : " + getMix_266(giatri_266));
-            Console.WriteLine("tang so la : " + getTanSo(giatri_266));
-            Console.Write("Sap xep mang tang : " + " ");
+            Console.WriteLine("tang so la : " + getTanSo(giatri_266) + "\n");
+            Console.WriteLine("Sap xep mang tang : ");
             sapxeptang(giatri_266);
-            Console.Write("Sap xep mang giam : " + " ");
+            Console.WriteLine("Sap xep mang giam : ");
             sapxepgiam(giatri_266);
 
             Console.ReadKey();
@@ -43,10 +43,10 @@ namespace Baitapngay10_5
 
         public static int getMix_266(int[] giatri)
         {
-            int mix = int.MinValue;
+            int mix = int.MaxValue;
             for (int i = 0; i < 10; i++)
             {
-                if (giatri[i] > mix)
+                if (giatri[i] < mix)
                 {
                     mix = giatri[i];
                 }
@@ -125,10 +125,11 @@ namespace Baitapngay10_5
         {
             for (int i = 0; i < giatri.Length; i++)
             {
-                Console.WriteLine(giatri[i]);
+                Console.Write(" " + giatri[i]);
+
             }
+            Console.WriteLine();
 
         }
-
     }
 }
